@@ -70,7 +70,7 @@ public class UniversidadEjemplo {
        inscripciones nueva= new inscripciones(1, alu, sociales, 8.7);
        InscripcionData ins= new InscripcionData();
        ins.guardarInscripcion(nueva);
-       
+       // nuevos alumnos agregados y materia
        
        }
     
